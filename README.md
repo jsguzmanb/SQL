@@ -1,5 +1,5 @@
 # SQL
-SQL Projects </ br>
+SQL Projects <br />
 
 # SQL Basic Queries
 You´ll find my examples of basic queries using SQL, among others: <br />
